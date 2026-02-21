@@ -108,7 +108,7 @@ export default function Index() {
             <div className="w-9 h-9 rounded-xl bg-gradient-to-br from-cyan-400 to-blue-600 flex items-center justify-center">
               <Icon name="Droplets" size={20} className="text-white" />
             </div>
-            <span className="font-oswald text-xl font-bold tracking-wider text-white">АКВА<span className="text-cyan-400">ПРО</span></span>
+            <span className="font-oswald text-xl font-bold tracking-wider text-white">CARWASH<span className="text-cyan-400">124</span></span>
           </div>
 
           <div className="hidden md:flex items-center gap-8">
@@ -443,9 +443,9 @@ export default function Index() {
             <div className="w-7 h-7 rounded-lg bg-gradient-to-br from-cyan-400 to-blue-600 flex items-center justify-center">
               <Icon name="Droplets" size={14} className="text-white" />
             </div>
-            <span className="font-oswald font-bold text-white">АКВА<span className="text-cyan-400">ПРО</span></span>
+            <span className="font-oswald font-bold text-white">CARWASH<span className="text-cyan-400">124</span></span>
           </div>
-          <p className="text-gray-500 text-sm">© 2024 АкваПро. Все права защищены.</p>
+          <p className="text-gray-500 text-sm">© 2024 CARWASH124. Все права защищены.</p>
           <div className="flex items-center gap-2 text-gray-500 text-sm">
             <Icon name="Leaf" size={14} className="text-cyan-400" />
             Экологичные технологии
