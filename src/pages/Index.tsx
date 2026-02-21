@@ -369,10 +369,10 @@ export default function Index() {
             <Section>
               <div className="space-y-4">
                 {[
-                  { icon: "MapPin", label: "Адрес", value: "ул. Автомобильная, 15, Москва" },
-                  { icon: "Phone", label: "Телефон", value: "+7 (495) 123-45-67" },
-                  { icon: "Clock", label: "Режим работы", value: "Ежедневно с 8:00 до 22:00" },
-                  { icon: "Mail", label: "Email", value: "info@aquapro.ru" },
+                  { icon: "MapPin", label: "Адрес", value: "пгт. Березовка, квартал 43, зд. 1" },
+                  { icon: "Phone", label: "Телефон", value: "+7 (988) 701-89-50" },
+                  { icon: "Clock", label: "Режим работы", value: "Ежедневно с 9:00 до 20:00" },
+                  { icon: "Mail", label: "Email", value: "carwash124@bk.ru" },
                 ].map((item) => (
                   <div key={item.label} className="flex items-center gap-4 p-4 rounded-xl border border-white/8 bg-white/3 hover:border-cyan-400/30 transition-all">
                     <div className="w-10 h-10 rounded-lg bg-cyan-500/15 flex items-center justify-center flex-shrink-0">
